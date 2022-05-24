@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 ![notghettolenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=notghettolenny&hide=issues&theme=merko)
 
-## 😂 Here is a random joke that'll make you laugh!
+## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
